@@ -15,7 +15,7 @@ print(story.count("wjn"))
 # capitalize first word of story
 print(story.capitalize())
 
-# find if that word is resent in string or not
+# find if that word , ont occurence of first word is resent in string or not
 print(story.find("vaibhav"))
 print(story.find("wjn"))
 
